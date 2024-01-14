@@ -1,6 +1,6 @@
 <h2>Data Encoder</h2>
-<img src="https://raw.githubusercontent.com/AttaTechyKid/shortcutsarchive/main/data-encoder/preview.PNG" width="600" height="1215" alt="preview">
-600 x 1215
+<img src="https://raw.githubusercontent.com/AttaTechyKid/shortcutsarchive/main/data-encoder/preview.PNG" width="300" height="607" alt="preview">
+300 x 607
 <br>
 <h3>What’s Data Encoder?</h3>
 <p>Data Encoder is a special little tool that allows you to encode things only computers can, like creating QR codes, generating hash, and lots more!</p>
